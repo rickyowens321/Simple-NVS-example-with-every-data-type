@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/CMakeFiles/bootloader
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/CMakeFiles/bootloader.rule
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/CMakeFiles/bootloader-complete.rule
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/my_git_repo/atieq-khan/simple_NVS_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
